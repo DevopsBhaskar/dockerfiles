@@ -1,3 +1,3 @@
-from almalinux:9
-LABEL course= "docker"
-    author = "Bhaskar"
+from almalinux:9 
+LABEL course="docker" \
+    author="Bhaskar"
