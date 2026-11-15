@@ -1,2 +1,2 @@
-FROM almanlinux:9
+FROM almalinux:9
 EXPOSE 80/tcp
