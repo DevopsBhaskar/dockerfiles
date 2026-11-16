@@ -1,2 +1,2 @@
 FROM almalinux:p
-CMD ["ping","google.com"]
+CMD ["ping", "google.com"]
